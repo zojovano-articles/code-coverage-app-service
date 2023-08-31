@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TestCodeCoverageConsoleApp/.vs/TestCodeCoverageConsoleApp
+/TestCodeCoverageConsoleApp/TestCodeCoverageConsoleApp/bin
+/TestCodeCoverageConsoleApp/TestCodeCoverageConsoleApp/obj
